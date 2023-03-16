@@ -1,5 +1,4 @@
-import requests
-import json
+import requests, json
 
 API_URL = "https://discord.com/api/v9/auth/login"
 EMAIL = "youremail@provider.domain"
